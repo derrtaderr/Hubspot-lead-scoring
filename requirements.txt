@@ -1,0 +1,4 @@
+hubspot3
+azureml-sdk[automl]
+pandas
+scikit-learn # If needed for preprocessing
